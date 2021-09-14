@@ -1,6 +1,4 @@
 # Diffusion 2-D model <br/>
-
- In Progress  :( so stay away :P
  
 [Prof .Mayur Vaidya IIT Hyderabad](https://iith.ac.in/msme/vaidyam/) *Diffusion course* teaching material animations repository
 
